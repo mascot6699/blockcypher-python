@@ -13,7 +13,7 @@ setup(name='blockcypher',
       install_requires=[
           'requests<3.0.0',
           'python-dateutil<3.0.0',
-          'bitcoin==1.1.39',
+          'bitcoin==1.1.42',
           ],
       packages=['blockcypher'],
       include_package_data=True,
